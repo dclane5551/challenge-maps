@@ -66,6 +66,10 @@ Secrets (the Discord app ID and secret) are read from the server environment and
 
 *Score submission form: players submit a pass with required video proof for review.*
 
+<img src="images/expert.png" alt="Expert tier map list" width="100%" />
+
+*Expert tier: every map with its stats, pattern tags, and a download button.*
+
 ---
 
 <p align="center"><a href="https://github.com/dclane5551">← Back to Danny Lane's profile</a></p>
